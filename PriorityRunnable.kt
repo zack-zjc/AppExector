@@ -1,7 +1,7 @@
-package com.realcloud.executor.runnable
+package com.zack.runnable
 
-import com.realcloud.executor.runnable.Priority
-import com.realcloud.executor.runnable.PriorityLevel
+import com.zack.runnable.Priority
+import com.zack.runnable.PriorityLevel
 
 /**
  * Created by zack on 2019/4/28.
